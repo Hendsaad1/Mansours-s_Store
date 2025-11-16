@@ -7,7 +7,7 @@ A simple store management system with products, purchase invoices, sales, return
 ## Products APIs
 
 ### Add Products
-- **Endpoint**: `POST /api/products/add`
+- **Endpoint**: post `http://localhost:5000/api/products/add`
 - **Description**: Adds multiple products to the inventory in a single request.
 - **Request Body** (Required):
   ```json
